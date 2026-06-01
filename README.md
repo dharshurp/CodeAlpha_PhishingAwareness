@@ -1,2 +1,2 @@
-# codealpha_tasks
+CodeAlpha_CyberSecurity
 CodeAlpha Cyber Security Internship – Phishing Awareness Training Project
